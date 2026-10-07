@@ -1,0 +1,4 @@
+# ZEUS, I. Abt et al., JHEP 12 (2022) 164 [arXiv:2206.13343], Table 1 "All events"
+# exclusive photoproduction, 30 < W < 180 GeV, |t| < 1 GeV2, <W> = 91.4 GeV (J/psi)
+Q2,W_mean,ratio,stat,syst_up,syst_dn
+0.0,91.4,0.146,0.010,0.016,0.020

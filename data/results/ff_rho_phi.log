@@ -1,0 +1,9 @@
+spinor check (Dirac eq., normalisation): 1.9e-15
+S-1 unitarity sum|S|^2 per helicity: [[1. 1. 1.]
+ [1. 1. 1.]]
+S-1 |L_updn|, |T_upup|, |T_updn|, |T_dnup|  here : [0.683961 0.70724  0.320334 0.574094]
+                                          model.py: [0.683961 0.70724  0.320334 0.574094]
+rho S1 [GK]: G_C(0)=1.000  mu=G_M(0)=2.214  G_Q(0)=-0.247 -> Q=-0.0160 fm^2   r_C=0.671 fm
+rho S2 [GK]: G_C(0)=1.000  mu=G_M(0)=2.226  G_Q(0)=-0.713 -> Q=-0.0462 fm^2   r_C=0.777 fm
+phi S1 [GK]: G_C(0)=1.000  mu=G_M(0)=2.116  G_Q(0)=-0.421 -> Q=-0.0158 fm^2   r_C=0.481 fm
+phi S2 [GK]: G_C(0)=1.000  mu=G_M(0)=2.130  G_Q(0)=-0.746 -> Q=-0.0279 fm^2   r_C=0.499 fm

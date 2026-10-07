@@ -1,0 +1,9 @@
+# H1 Collaboration, Nucl. Phys. B 468, 3 (1996) [hep-ex/9602007],
+# Table 4, rho rows.  sigma(gamma* p -> rho p) quoted at Q^2 = Q^2_0 and
+# W = W_0 for the two Q^2 and two W domains of the measurement.
+# Errors: statistical then systematic.
+Q2,W,sigma_nb,stat,syst
+10,65,25.8,3.4,3.7
+10,115,29.4,4.3,4.2
+20,65,5,0.8,0.7
+20,115,5,0.8,0.7

@@ -1,0 +1,18 @@
+#: table_doi: 10.17182/hepdata.56191.v1/t19
+#: name: Table 19
+#: description: W dependence of the GAMMA* P cross section for elastic PHI production  for Q**2 There is an additional overall normalization uncertainty of 4.7 PCT.
+
+#: data_file: Table19.yaml
+#: keyword reactions: GAMMA* P --> PHI P
+#: keyword observables: SIG
+#: keyword phrases: Exclusive | Integrated Cross Section | Cross Section | Photoproduction
+#: Q**2 [GeV^2],15.8
+#: RE,GAMMA* P --> PHI P
+#: sqrts [GEV],300 + 320
+W [GEV],SIG [NB],stat +,stat -,sys +,sys -
+71.0,2.3,0.3,-0.3,0.2,-0.1
+97.0,2.5,0.4,-0.4,0.2,-0.2
+116.0,3.9,0.6,-0.6,0.3,-0.2
+139.0,4.4,0.8,-0.8,0.5,-0.3
+165.0,7.6,3.2,-3.2,0.6,-0.4
+

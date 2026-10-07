@@ -1,0 +1,10 @@
+# E665, Z. Phys. C 74, 237 (1997) [FERMILAB-Pub-97/103-E], Table 12.
+# R = sigma_L/sigma_T from the measured r^04_00 under SCHC,
+# R = r^04_00 / (eps (1 - r^04_00)), with the <eps>_2 of that table and
+# the <Q^2> of Table 10.  <W> = 18.1 GeV.
+Q2,W,R,err
+0.23,18.1,0.244499,0.044342
+0.43,18.1,0.399723,0.0505827
+0.76,18.1,0.661838,0.0898019
+1.76,18.1,0.807864,0.12862
+5.39,18.1,2.20299,0.859543

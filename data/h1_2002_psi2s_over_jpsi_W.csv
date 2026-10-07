@@ -1,0 +1,7 @@
+# H1, Phys.Lett. B541 (2002) 251 [hep-ex/0205107], Table 2; sigma(psi(2S))/sigma(J/psi) photoproduction
+# taken from the table in the paper (not digitised from a plot)
+W,ratio,stat,syst
+53.2,0.150,0.013,0.011
+79.4,0.181,0.015,0.013
+99.5,0.149,0.015,0.012
+128.3,0.203,0.018,0.014

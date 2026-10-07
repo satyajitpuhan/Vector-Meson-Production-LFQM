@@ -1,0 +1,22 @@
+# E665, Z. Phys. C 74, 237 (1997) [FERMILAB-Pub-97/103-E], Table 8.
+# sigma_T + sigma_L for gamma* p -> rho0 p against W, at four Q^2.
+# This table gives the UNWEIGHTED sum, not sigma_T + eps sigma_L.
+# <W> per nu range is from the same table.  Microbarn in the paper.
+# Errors are statistical only.
+Q2,W,sigma_nb,stat
+0.24,10.1,4580,350
+0.24,14.9,4780,410
+0.24,19.3,4940,390
+0.24,24.1,6640,670
+0.61,10.1,2100,90
+0.61,14.9,2620,150
+0.61,19.3,2670,170
+0.61,24.1,3140,280
+1.84,10.1,487,44
+1.84,14.9,523,57
+1.84,19.3,641,66
+1.84,24.1,620,89
+5.69,10.1,73,17
+5.69,14.9,72,20
+5.69,19.3,81,19
+5.69,24.1,103,34

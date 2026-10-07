@@ -1,0 +1,26 @@
+start [58.1, 0.744, 0.165, 1.57e-07] -> chi2 = 1719.35
+start [40, 0.7, 0.2, 1e-06] -> chi2 = 1719.35
+start [80, 0.8, 0.14, 1e-08] -> chi2 = 1719.35
+start [26.3, 0.741, 0.219, 1.81e-05] -> chi2 = 1719.35
+
+fit to HERA, E665, NMC, charm with m_ud = 0.266, m_s = 0.4966, m_c = 1.6061 GeV
+  chi2 = 1719.3   N = 612   chi2/N = 2.809   chi2/dof = 2.828
+  uncertainties: Delta chi2 = 1, and in brackets multiplied by sqrt(chi2/dof)
+  sigma0  = 58.919 +- 2.106 (3.541) mb
+  gamma_s = 0.7404 +- 0.0118 (0.0199)
+  lambda  = 0.1609 +- 0.0037 (0.0062)
+  x0      = 1.1649e-07   ln x0 = -15.965 +- 0.559 (0.940); scaled range 4.551e-08 .. 2.982e-07
+  correlation matrix (sigma0, gamma_s, lambda, ln x0):
+[[ 1.    -0.96  -0.918 -0.986]
+ [-0.96   1.     0.925  0.985]
+ [-0.918  0.925  1.     0.96 ]
+ [-0.986  0.985  0.96   1.   ]]
+  saturation scale Q_s^2(x = 1e-4) = 0.337 GeV^2
+
+  chi2/N per data set:
+   HERA   N = 524   chi2/N = 2.47
+   E665   N =  45   chi2/N = 2.67
+   NMC    N =   9   chi2/N = 5.17
+   charm  N =  34   chi2/N = 7.64
+   HERA Q2 < 1   N =  94   chi2/N = 4.52
+   HERA Q2 >= 1  N = 430   chi2/N = 2.02

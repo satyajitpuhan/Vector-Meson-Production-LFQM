@@ -1,0 +1,30 @@
+# QCDSF, M. Gurtler et al., PoS LATTICE2008, 051 (2008), Fig. 1: rho form factors, Nf=2 clover,
+# m_pi = 406 MeV, m_rho = 898 MeV. Read from the vector graphics of the published PDF (marker centres
+# and error-bar ends; axes calibrated on the G=0 line and tick labels). Errors smaller than the
+# marker are set to 0.02. Not a published table.
+# ff,Q2_GeV2,G,dG
+GC,0.002,0.992,0.020
+GC,0.403,0.569,0.040
+GC,0.727,0.456,0.037
+GC,0.773,0.365,0.132
+GC,0.891,0.364,0.020
+GC,1.018,0.316,0.070
+GC,1.302,0.256,0.038
+GC,1.781,0.189,0.020
+GC,2.549,0.084,0.049
+GM,0.403,1.198,0.071
+GM,0.727,1.064,0.062
+GM,0.773,0.652,0.132
+GM,0.891,0.733,0.020
+GM,1.018,0.791,0.101
+GM,1.302,0.550,0.037
+GM,1.781,0.510,0.020
+GM,2.549,0.296,0.037
+GQ,0.403,-0.290,0.256
+GQ,0.727,-0.136,0.136
+GQ,0.773,-0.454,0.469
+GQ,0.891,-0.034,0.057
+GQ,1.018,-0.041,0.197
+GQ,1.302,-0.098,0.088
+GQ,1.781,-0.085,0.045
+GQ,2.550,-0.022,0.073

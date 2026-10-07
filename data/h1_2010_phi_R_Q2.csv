@@ -1,0 +1,9 @@
+# H1 Collaboration, JHEP 05 (2010) 032 [arXiv:0910.5831], Table 49.
+# Q^2 dependence of R = sigma_L/sigma_T for elastic phi production,
+# measured from the decay angular distribution at <W> = 75 GeV.
+# Errors: first statistical, second systematic; each side of an
+# asymmetric error is symmetrised by its larger half here.
+Q2,R,stat,syst
+3.3,1.37,0.14,0.09
+6.6,2.87,0.4,0.28
+15.8,6.01,2,1

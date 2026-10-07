@@ -1,0 +1,14 @@
+radial normalisation   int dx d^2k/(16 pi^3) |Phi|^2
+  rho   1.0000000000
+  phi   1.0000000000
+
+spin normalisation     n_L, n_T   (4 pi = 12.566371 for S-1, exactly)
+  rho  S-1   n_L = 12.566371   n_T = 12.566371
+  rho  S-2   n_L = 44.100503   n_T = 13.784615
+  phi  S-1   n_L = 12.566371   n_T = 12.566371
+  phi  S-2   n_L = 50.087349   n_T = 24.357032
+
+decay constants |f_par| [MeV]
+             S-1       S-2    Gamma_ee
+  rho      216.7     272.7    221.2(1.0)   [ -2.0%, +23.3%]
+  phi      241.1     290.1    228.6(3.6)   [ +5.5%, +26.9%]

@@ -1,0 +1,8 @@
+# H1, C. Adloff et al., Eur. Phys. J. C 10 (1999) 373 [hep-ex/9903008], Fig. 11 (W = 95 GeV)
+# no table is published; the values were read from the VECTOR paths of Fig. 11 in the arXiv PDF
+# (marker centres and error-bar end points, axis calibrated on the tick marks; reading accuracy < 0.002)
+# bins 1-5, 5-12, 12-80 GeV2; Q2 is the plotted abscissa; tot = stat (+) syst as drawn
+Q2lo,Q2hi,Q2,W,ratio,stat,tot
+1.0,5.0,2.31,95.0,0.170,0.050,0.060
+5.0,12.0,7.69,95.0,0.230,0.110,0.120
+12.0,80.0,26.0,95.0,0.620,0.250,0.270

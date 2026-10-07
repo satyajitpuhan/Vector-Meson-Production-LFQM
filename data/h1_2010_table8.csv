@@ -1,0 +1,24 @@
+#: table_doi: 10.17182/hepdata.56191.v1/t8
+#: name: Table 8
+#: description: Q**2 dependence of the longitudinal and transverse GAMMA* P cross sections for elastic PHI production at mean W There is an additional overall normalization uncertainty of 4.7 PCT.
+
+#: data_file: Table8.yaml
+#: keyword reactions: GAMMA* P --> PHI P
+#: keyword observables: SIG
+#: keyword phrases: Exclusive | Integrated Cross Section | Cross Section | Photoproduction
+#: RE,GAMMA* P --> PHI P
+#: W [GeV],75.0 (35.0-180.0)
+#: sqrts [GEV],300 + 320
+Q**2 [GEV**2],SIG(C=T) [NB],stat +,stat -,sys +,sys -
+3.3,19.6,2.4,-2.4,2.9,-2.1
+6.6,3.8,0.5,-0.5,0.6,-0.5
+15.8,0.34,0.1,-0.1,0.07,-0.06
+
+#: RE,GAMMA* P --> PHI P
+#: W [GeV],75.0 (35.0-180.0)
+#: sqrts [GEV],300 + 320
+Q**2 [GEV**2],SIG(C=L) [NB],stat +,stat -,sys +,sys -
+3.3,38.1,7.3,-7.3,4.1,-2.9
+6.6,12.8,2.6,-2.6,1.1,-0.6
+15.8,2.2,1.0,-1.0,0.3,-0.2
+

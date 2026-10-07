@@ -1,0 +1,4 @@
+# H1, C. Adloff et al., Phys. Lett. B 541 (2002) 251 [hep-ex/0205107], Sec. 3.1 / Summary
+# overall sigma(psi(2S))/sigma(J/psi), 40 < W < 150 GeV, Q2 < 1 GeV2 (<Q2> ~ 0.055 GeV2), z > 0.95
+Q2,Wlo,Whi,ratio,stat,syst,br
+0.0,40.0,150.0,0.166,0.007,0.008,0.007

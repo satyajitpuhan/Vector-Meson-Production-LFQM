@@ -1,0 +1,17 @@
+# NMC, Nucl. Phys. B 429, 503 (1994) [CERN-PPE/94-146], Table 4,
+# deuterium rows.  sigma(gamma* N -> rho0 N) per nucleon against Q^2.
+# W is computed here from the quoted <nu>: W^2 = 2 m_p nu + m_p^2 - Q^2.
+# The table gives sigma_T + eps sigma_L, NOT sigma_T + sigma_L, and eps
+# varies from 0.50 to 0.82 across the range, so it is carried per point.
+# Errors: statistical as published, plus the 20% normalisation
+# uncertainty quoted in the caption, listed separately.
+Q2,W,eps,sigma_nb,stat,norm
+2.5,16.1585,0.5,170,31,34
+3.5,14.6649,0.66,60,10,12
+4.5,14.6948,0.66,65,11,13
+5.5,13.9389,0.72,41,7,8.2
+6.9,13.4074,0.76,23,3,4.6
+8.8,12.9073,0.78,15,2,3
+11.9,12.3385,0.82,5.8,0.9,1.16
+16.9,12.1342,0.81,2.6,0.7,0.52
+22.5,12.2891,0.8,1.7,0.5,0.34

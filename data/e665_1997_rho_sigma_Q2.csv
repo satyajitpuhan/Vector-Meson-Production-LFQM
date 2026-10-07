@@ -1,0 +1,14 @@
+# E665, Z. Phys. C 74, 237 (1997) [FERMILAB-Pub-97/103-E], Table 5,
+# column "all nu", with <eps> per bin from Table 10.
+# sigma_diff = sigma_T + eps sigma_L for gamma* p -> rho0 p against Q^2
+# at <W> = 18.1 GeV.  Microbarn in the paper, nb here.
+# Errors are statistical only.
+Q2,W,eps,sigma_nb,stat
+0.17,18.1,0.764,7430,1030
+0.25,18.1,0.809,5030,260
+0.43,18.1,0.819,3520,160
+0.76,18.1,0.822,1840,100
+1.35,18.1,0.824,875,66
+2.39,18.1,0.828,315,36
+4.23,18.1,0.831,126,22
+7.51,18.1,0.834,48,13

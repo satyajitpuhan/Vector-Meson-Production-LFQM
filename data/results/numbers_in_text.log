@@ -1,0 +1,23 @@
+sigma(Q^2): data/theory, range and mean in the lowest and highest third of Q^2
+  rho H1 2010    N =  23   S1: 0.71-1.38 (low 0.76, high 1.12)   S2: 0.48-0.78 (low 0.50, high 0.64)
+  rho ZEUS 2007  N =  11   S1: 0.71-1.46 (low 0.76, high 1.30)   S2: 0.49-0.83 (low 0.51, high 0.73)
+  rho H1 2000    N =  22   S1: 0.62-1.28 (low 0.77, high 1.07)   S2: 0.40-0.75 (low 0.54, high 0.63)
+  rho E665 1997  N =   8   S1: 0.86-1.62 (low 1.38, high 1.35)   S2: 0.56-1.25 (low 1.11, high 0.80)
+  rho NMC 1994   N =   9   S1: 0.44-1.14 (low 0.65, high 1.06)   S2: 0.26-0.65 (low 0.38, high 0.62)
+  phi H1 2010    N =  12   S1: 0.76-1.11 (low 0.89, high 0.95)   S2: 0.53-0.75 (low 0.67, high 0.65)
+  phi ZEUS 2005  N =   9   S1: 1.00-1.97 (low 1.01, high 1.48)   S2: 0.75-1.31 (low 0.77, high 1.00)
+
+E665 sigma_L and sigma_T: data/theory, range and value at the lowest Q^2
+  sigma_T  S1: 0.84-1.80, at Q2 = 0.17: 1.43
+  sigma_T  S2: 0.42-1.11, at Q2 = 0.17: 1.11
+  sigma_L  S1: 0.90-2.75, at Q2 = 0.17: 2.75
+  sigma_L  S2: 0.93-4.90, at Q2 = 0.17: 4.90
+
+J/psi photoproduction at W = 90 GeV (H1 2005: 73.1 +- 6.5 nb)
+  S1: 38.2 nb
+  S2: 43.3 nb
+
+psi(2S)/J/psi at W = 90 GeV
+  Q2 =  0.0:  S-1 0.071   S-2 0.147
+  Q2 = 10.0:  S-1 0.187   S-2 0.290
+  Q2 = 30.0:  S-1 0.296   S-2 0.409

@@ -1,0 +1,11 @@
+# ZEUS Collaboration, PMC Phys. A1 (2007) 6 [arXiv:0708.1478], Table 7.
+# R = sigma_L/sigma_T against Q^2, averaged over the W bin given in the
+# paper; the W column here is the centre of that bin.
+Q2,W,R,stat,syst
+2.4,76,1.5,0.05,0.2
+3.7,76,2.1,0.08,0.18
+5.9,90,2.7,0.14,0.28
+8.3,90,3.2,0.2,0.27
+12,90,3.5,0.26,0.3
+19.5,90,4.6,0.54,0.48
+40.5,100,6.1,2.75,2.15

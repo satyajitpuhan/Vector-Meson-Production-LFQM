@@ -1,0 +1,21 @@
+#: table_doi: 10.17182/hepdata.45894.v1/t1
+#: name: Table 1
+#: description: Exclusive GAMMA* P --> PHI P cross section in the Q**2 range 2 to 3 GeV**2.
+
+#: data_file: Table1.yaml
+#: keyword reactions: GAMMA* P --> PHI P
+#: keyword observables: SIG
+#: keyword phrases: Exclusive | Integrated Cross Section | Cross Section | Photoproduction
+#: keyword cmenergies: 318.0
+#: Q**2 [GEV**2],,,2.4 (BIN=2 TO 3)
+#: RE,,,GAMMA* P --> PHI P
+#: SQRT(S) [GeV],,,318.0,,,,,,
+W [GEV],W [GEV] LOW,W [GEV] HIGH,SIG [NB],stat +,stat -,sys +,sys -,"sys,Additional overall normalization error. +","sys,Additional overall normalization error. -"
+40.0,35.0,45.0,76.4,6.5,-6.5,4.0,-5.9,4.1%,5.3%
+50.0,45.0,55.0,101.2,7.7,-7.7,8.1,-4.2,4.1%,5.3%
+60.0,55.0,65.0,101.9,8.3,-8.3,6.3,-7.4,4.1%,5.3%
+70.0,65.0,75.0,112.8,9.4,-9.4,6.3,-7.6,4.1%,5.3%
+80.0,75.0,85.0,107.0,11.0,-11.0,4.0,-6.0,4.1%,5.3%
+90.0,85.0,95.0,122.0,11.0,-11.0,10.0,-10.0,4.1%,5.3%
+100.0,95.0,105.0,110.0,11.0,-11.0,8.0,-7.0,4.1%,5.3%
+

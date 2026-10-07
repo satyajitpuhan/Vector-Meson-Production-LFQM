@@ -1,0 +1,5 @@
+# H1, C. Adloff et al., Phys. Lett. B 421 (1998) 385 [hep-ex/9711012], HEPData ins451266 Table 9
+# sigma(psi(2S))/sigma(J/psi) photoproduction, extrapolated to Q2 = 0, 40 < W < 160 GeV (W = 80 GeV)
+# third error: psi(2S) branching fractions
+Q2,W,Wlo,Whi,ratio,stat,syst,br
+0.0,80.0,40.0,160.0,0.150,0.027,0.018,0.011

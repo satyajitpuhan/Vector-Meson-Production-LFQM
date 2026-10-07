@@ -1,0 +1,18 @@
+# E665, Z. Phys. C 74, 237 (1997) [FERMILAB-Pub-97/103-E], Table 7.
+# sigma_T and sigma_L separately for gamma* p -> rho0 p against Q^2 at
+# <W> = 18.1 GeV (Table 10).  The paper quotes microbarn; converted here
+# by 1 ub = 1000 nb.  Errors are statistical; there is in addition a 5%
+# systematic on r and the F_2^p uncertainty of Table 10.
+# NOTE the separation into sigma_T and sigma_L uses the R(Q^2)
+# parametrisation of the paper's Eq. (35), so the two columns are not
+# independent of each other; the sum, and the directly measured
+# r^04_00 of Table 12, are.
+Q2,W,eps,sigma_T_nb,err_T,sigma_L_nb,err_L
+0.17,18.1,0.76,6370,890,1390,260
+0.25,18.1,0.8,4110,230,1150,120
+0.43,18.1,0.81,2670,130,1051,82
+0.76,18.1,0.81,1269,73,708,52
+1.35,18.1,0.81,533,45,422,40
+2.39,18.1,0.81,165,22,185,26
+4.23,18.1,0.81,55,11,88,17
+7.51,18.1,0.81,17,5,38,11

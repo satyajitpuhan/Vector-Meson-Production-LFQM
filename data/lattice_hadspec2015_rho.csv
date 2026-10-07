@@ -1,0 +1,30 @@
+# HadSpec, C.J. Shultz, J.J. Dudek, R.G. Edwards, PRD 91, 114501 (2015) [1501.07457], Fig. 14:
+# rho form factors at the SU(3) point, m_pi ~ 700 MeV, m_rho = 1020 MeV. Read from the vector graphics
+# of the arXiv figure; points from different operator choices at the same Q2 are averaged, and their
+# spread (min 0.02) is used as the uncertainty. Not a published table.
+# ff,Q2_GeV2,G,dG,n_averaged
+GC,0.001,0.964,0.022,5
+GC,0.278,0.675,0.020,5
+GC,0.529,0.495,0.020,5
+GC,0.544,0.506,0.020,2
+GC,0.582,0.489,0.020,2
+GC,0.750,0.378,0.020,3
+GC,0.863,0.366,0.020,5
+GC,0.971,0.307,0.020,1
+GC,1.163,0.284,0.020,2
+GM,0.279,1.638,0.020,6
+GM,0.529,1.295,0.020,5
+GM,0.544,1.254,0.020,2
+GM,0.582,1.247,0.020,2
+GM,0.750,1.078,0.020,3
+GM,0.863,0.992,0.020,5
+GM,0.971,0.902,0.020,1
+GM,1.164,0.807,0.020,4
+GQ,0.277,-0.336,0.067,6
+GQ,0.530,-0.275,0.086,5
+GQ,0.544,-0.218,0.020,2
+GQ,0.582,-0.171,0.020,2
+GQ,0.749,-0.278,0.024,2
+GQ,0.862,-0.148,0.020,4
+GQ,0.969,-0.222,0.020,1
+GQ,1.163,-0.128,0.020,2

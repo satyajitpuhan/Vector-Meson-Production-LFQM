@@ -1,0 +1,7 @@
+# H1 Collaboration, Nucl. Phys. B 468, 3 (1996) [hep-ex/9602007],
+# Table 6.  R = sigma_L/sigma_T for two Q^2 domains, 40 < W < 140 GeV,
+# from r^04_00 = 0.73 +- 0.05 +- 0.02 with <eps> = 0.99.
+# Errors are asymmetric as published.
+Q2,W,R,err_up,err_dn
+10,90,2.2,0.8,0.5
+20,90,4,2.4,1.2

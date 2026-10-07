@@ -1,0 +1,13 @@
+# ZEUS Collaboration, Eur. Phys. J. C 6, 603 (1999) [hep-ex/9808020],
+# Table 8, DIS rho0 rows.  R = sigma_L/sigma_T obtained from the measured
+# r^04_00 under s-channel helicity conservation,
+# R = r^04_00 / (eps (1 - r^04_00)) with eps = 0.996,
+# statistical and systematic errors added in quadrature before
+# propagation.  The five BPC rows at Q^2 < 1 GeV^2 are not included.
+Q2,W,R,err
+6.2,46,2.45811,0.430444
+6.2,67,2.13353,0.438486
+6.2,92,3.01205,0.681549
+3.8,67,2.13353,0.277323
+6.8,67,2.85758,0.664215
+14.1,67,3.17938,1.1693

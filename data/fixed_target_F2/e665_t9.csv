@@ -1,0 +1,21 @@
+#: table_doi: 10.17182/hepdata.42347.v1/t9
+#: name: Table 9
+#: description: No description provided.
+#: data_file: Table9.yaml
+#: keyword reactions: MU+ P --> MU+ X
+#: keyword observables: F2
+#: keyword phrases: Inclusive | Structure Function | Muon production | Neutral Current | Deep Inelastic Scattering
+#: keyword cmenergies: 29.709
+#: LOG10(X),-1.912
+#: PLAB [GeV],470.0
+#: RE,MU+ P --> MU+ X
+#: SQRT(S) [GeV],29.709
+#: X,0.01225
+LOG10(Q**2),Q**2 [GEV**2],F2,stat +,stat -,sys +,sys -
+0.175,1.496,0.313,0.015,-0.015,0.017,-0.017
+0.311,2.046,0.374,0.018,-0.018,0.01,-0.01
+0.447,2.799,0.377,0.023,-0.023,0.008,-0.008
+0.583,3.828,0.408,0.023,-0.023,0.011,-0.011
+0.719,5.236,0.403,0.027,-0.027,0.015,-0.015
+0.855,7.161,0.421,0.045,-0.045,0.016,-0.016
+

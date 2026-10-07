@@ -1,0 +1,24 @@
+#: table_doi: 10.17182/hepdata.44043.v1/t5
+#: name: Table 5
+#: description: Ratio of cross sections for elastic RHO electroproduction by longitudinal and transverse photons.
+
+#: data_file: Table5.yaml
+#: keyword reactions: E+ P --> E+ RHO0 P
+#: keyword observables: SIG
+#: keyword phrases: Exclusive | Integrated Cross Section | Cross Section | Electron production
+#: keyword cmenergies: 300.0
+#: ABS(T) [GEV**2],<0.5
+#: E(P=1) [GeV],27.5
+#: E(P=2) [GeV],820.0
+#: MEAN(W) [GeV],75.0
+#: RE,E+ P --> E+ RHO0 P
+#: SQRT(S) [GeV],300.0
+Q**2 [GEV**2],SIG(C=LONG)/SIG(C=TRANS),stat +,stat -,sys +,sys -
+1.8,1.03,0.16,-0.16,0.1,-0.1
+2.7,1.75,0.36,-0.29,0.3,-0.28
+3.4,2.25,0.42,-0.34,0.13,-0.1
+4.8,2.22,0.46,-0.36,0.14,-0.06
+7.2,2.67,0.7,-0.5,0.32,-0.1
+10.9,3.38,1.3,-0.82,0.28,-0.46
+19.7,2.6,1.19,-0.72,0.27,-0.08
+

@@ -1,0 +1,23 @@
+#: table_doi: 10.17182/hepdata.54963.v1/t20
+#: name: Table 20
+#: description: Cross section as a function of Q**2 for mean value of W = 90 GeV**2.
+
+#: data_file: Table20.yaml
+#: keyword reactions: E- P --> E- RHO0 P | E+ P --> E+ RHO0 P | GAMMA* P --> RHO0 P
+#: keyword observables: SIG
+#: keyword phrases: Exclusive | Integrated Cross Section | Cross Section | Photoproduction | Electron production
+#: MEAN(NAME=W) [GeV],,,,,90.0
+#: RE,,,,,GAMMA* P --> RHO0 P
+Q**2 [GEV**2],Q**2 [GEV**2] LOW,Q**2 [GEV**2] HIGH,W [GEV],W [GEV] LOW,W [GEV] HIGH,SIG [NB],stat +,stat -,sys +,sys -,"sys,Additional systematic error from the uncertainty in the luminosity. +","sys,Additional systematic error from the uncertainty in the luminosity. -","sys,Additional systematic error from the proton-dissociative background. +","sys,Additional systematic error from the proton-dissociative background. -"
+2.4,2.0,3.0,70.0,40.0,100.0,647.1,8.7,-8.7,28.4,-41.7,2.0%,-2.0%,4.0%,-4.0%
+3.4,3.0,4.0,70.0,40.0,100.0,396.7,6.7,-6.7,14.6,-19.4,2.0%,-2.0%,4.0%,-4.0%
+4.4,4.0,5.0,70.0,40.0,100.0,247.8,5.8,-5.8,8.9,-12.6,2.0%,-2.0%,4.0%,-4.0%
+5.8,5.0,7.0,80.0,40.0,120.0,140.3,2.6,-2.6,3.9,-5.9,2.0%,-2.0%,4.0%,-4.0%
+8.2,7.0,10.0,90.0,40.0,140.0,71.9,1.4,-1.4,1.7,-2.9,2.0%,-2.0%,4.0%,-4.0%
+12.0,10.0,15.0,90.0,40.0,140.0,29.73,0.68,-0.68,0.75,-1.14,2.0%,-2.0%,4.0%,-4.0%
+17.0,15.0,20.0,90.0,40.0,140.0,12.77,0.5,-0.5,0.27,-0.42,2.0%,-2.0%,4.0%,-4.0%
+24.0,20.0,30.0,90.0,40.0,140.0,6.03,0.31,-0.31,0.37,-0.13,2.0%,-2.0%,4.0%,-4.0%
+37.0,30.0,50.0,90.0,40.0,140.0,1.88,0.16,-0.16,0.07,-0.15,2.0%,-2.0%,4.0%,-4.0%
+60.0,50.0,80.0,90.0,40.0,140.0,0.36,0.07,-0.07,0.04,-0.03,2.0%,-2.0%,4.0%,-4.0%
+100.0,80.0,160.0,90.0,40.0,140.0,0.05,0.03,-0.03,0.02,-0.01,2.0%,-2.0%,4.0%,-4.0%
+

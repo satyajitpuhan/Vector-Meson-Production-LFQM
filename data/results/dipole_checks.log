@@ -1,0 +1,29 @@
+1. published IIM fits on the 524 HERA points
+   fit A  m_ud = 0.046, m_s = 0.357, m_c = 1.27:  chi2 =   535.6   (published 535)
+   fit B  m_ud = 0.046, m_s = 0.14,  m_c = 1.27:  chi2 =   530.4   (published 529)
+   fit C  m_ud = m_s = 0.14,        m_c = 1.27:  chi2 =   562.5   (published 554)
+      lowest chi2 within the rounding of the quoted parameters: 553.5
+   Rezaeian-Schmidt, m_l = 0.001,   m_c = 1.27:  chi2 =   562.6   (published 562)
+
+2. IIM amplitude at r Q_s = 2: value and slope from both sides
+   gamma_s = 0.63, x = 0.0001:  N = 0.700000 | 0.700000   slope = 0.44100 | 0.44100
+   gamma_s = 0.63, x = 1e-06:  N = 0.700000 | 0.700000   slope = 0.44100 | 0.44100
+   gamma_s = 0.7404, x = 0.0001:  N = 0.699999 | 0.700001   slope = 0.51828 | 0.51828
+   gamma_s = 0.7404, x = 1e-06:  N = 0.699999 | 0.700001   slope = 0.51828 | 0.51828
+
+3. photon overlaps: paper convention against Kowalski-Motyka-Watt
+   longitudinal ratio 1.000000000000   transverse ratio 1.000000000000
+
+4. GBW model, HERA points with Q^2 <= 10 GeV^2 (Golec-Biernat and Sapeta, Table 1)
+   light quarks, m_l = 0.14    (their fit 0: 23.58, 0.270, 2.24e-4, 1.83)
+      ours: sigma0 = 24.33 mb, lambda = 0.261, x0 = 1.833e-04, chi2/dof = 435/289 = 1.50
+   m_l = 0.14, m_c = 1.4      (their fit 1: 27.32, 0.248, 0.42e-4, 1.60)
+      ours: sigma0 = 28.81 mb, lambda = 0.237, x0 = 2.715e-05, chi2/dof = 363/289 = 1.26
+   m_l = 0.28, m_c = 1.4      (they quote chi2/Ndof = 2.78)
+      ours: sigma0 = 83.13 mb, lambda = 0.195, x0 = 4.752e-08, chi2/dof = 612/289 = 2.12
+   LFQM masses 0.266, 0.497, 1.606
+      ours: sigma0 = 89.37 mb, lambda = 0.195, x0 = 4.170e-08, chi2/dof = 613/289 = 2.12
+
+5. x shifted for charm only instead of every flavour (our masses, all fitted data)
+   every flavour: chi2/dof = 1719.3/608 = 2.828   sigma0 = 58.92, gamma_s = 0.7404, lambda = 0.1609, x0 = 1.165e-07
+   charm only:    chi2/dof = 1246.3/608 = 2.050   sigma0 = 52.86, gamma_s = 0.7281, lambda = 0.1660, x0 = 2.165e-07

@@ -1,0 +1,14 @@
+jpsi S1:  [GK] r_C=0.2172 fm  G_M(0)=2.0558  G_Q(0)=-0.2642  Q=-0.00107 fm^2  [BH] r_C=0.2241 fm  G_M(0)=2.0558  G_Q(0)=-0.2642  Q=-0.00107 fm^2
+   lattice chi2/N  BH   : Dudek06    70.27 (36)  Delaney23   155.68 (33)  all   111.12
+   lattice chi2/N  GK   : Dudek06   122.02 (36)  Delaney23   146.58 (33)  all   133.77
+   lattice chi2/N  no+0 : Dudek06   125.94 (36)  Delaney23   870.61 (33)  all   482.09
+   lattice chi2/N  no+- : Dudek06   311.04 (36)  Delaney23   209.49 (33)  all   262.47
+   lattice chi2/N  LSQ  : Dudek06    94.20 (36)  Delaney23   163.67 (33)  all   127.43
+jpsi S2:  [GK] r_C=0.2141 fm  G_M(0)=2.0618  G_Q(0)=-0.6381  Q=-0.00259 fm^2  [BH] r_C=0.2167 fm  G_M(0)=2.0618  G_Q(0)=-0.6381  Q=-0.00259 fm^2
+   lattice chi2/N  BH   : Dudek06   274.75 (36)  Delaney23   206.53 (33)  all   242.12
+   lattice chi2/N  GK   : Dudek06   327.68 (36)  Delaney23   205.79 (33)  all   269.38
+   lattice chi2/N  no+0 : Dudek06   194.98 (36)  Delaney23   374.94 (33)  all   281.05
+   lattice chi2/N  no+- : Dudek06   144.60 (36)  Delaney23   153.74 (33)  all   148.97
+   lattice chi2/N  LSQ  : Dudek06   223.24 (36)  Delaney23   190.30 (33)  all   207.49
+psi2s S1:  [GK] r_C=0.3882 fm  G_M(0)=2.0733  G_Q(0)=-0.0087  Q=-0.00003 fm^2  [BH] r_C=0.3881 fm  G_M(0)=2.0733  G_Q(0)=-0.0087  Q=-0.00003 fm^2
+psi2s S2:  [GK] r_C=0.3684 fm  G_M(0)=2.0875  G_Q(0)=0.2079  Q=0.00061 fm^2  [BH] r_C=0.3657 fm  G_M(0)=2.0875  G_Q(0)=0.2079  Q=0.00061 fm^2

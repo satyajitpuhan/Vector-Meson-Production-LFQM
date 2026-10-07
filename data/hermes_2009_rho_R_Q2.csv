@@ -1,0 +1,12 @@
+# HERMES Collaboration, Eur. Phys. J. C 62, 659 (2009) [arXiv:0901.0701],
+# Table 13, row "R", proton target.  Longitudinal-to-transverse ratio in
+# four Q^2 bins whose mean values are Table 2 of the same paper.
+# Total uncertainty as published.
+# <W> = 4.8 GeV, so x_Bj ~ 0.1: FAR outside the small-x range of any
+# dipole fit.  Kept in the inventory and drawn as an open symbol, never
+# used to judge the calculation.
+Q2,R,err
+0.82,0.649,0.188
+1.19,0.671,0.065
+1.66,0.794,0.083
+3.06,1.068,0.087
