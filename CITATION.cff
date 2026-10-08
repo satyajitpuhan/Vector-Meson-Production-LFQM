@@ -1,9 +1,10 @@
 cff-version: 1.2.0
-message: "If you use this code or data, please cite the paper below."
+message: "If you use any of the figures, the code or the data, please cite this repository and the paper below. If you follow research ethics, I will be happy to work with you."
 title: "Vector Meson Production Using the Light-Front Quark Model"
 authors:
   - family-names: Puhan
     given-names: Satyajit
+    email: puhansatyajit@gmail.com
     affiliation: "Institute of Physics, Academia Sinica, Taipei"
 license: MIT
 repository-code: "https://github.com/satyajitpuhan/Vector-Meson-Production-LFQM"

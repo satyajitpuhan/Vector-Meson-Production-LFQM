@@ -15,6 +15,8 @@ Both use the same radial wave function. The quark masses and wave-function param
 
 **Main findings.** S-1 describes the light-meson observables better. S-2 does better for the charmonium ratio σ_ψ(2S)/σ_J/ψ and for the J/ψ decay constant. The charge, magnetic and quadrupole form factors of all four mesons are also computed and compared with lattice QCD.
 
+> **Please note.** If you use any of the figures or the code, please cite this repository. If you follow research ethics, I will be happy to work with you. Contact: puhansatyajit@gmail.com · WhatsApp +886-919 479 591
+
 ## If you use this code or data, please cite
 
 ```bibtex
